@@ -267,6 +267,7 @@ Posiadał funkcję:
 <img width="945" height="160" alt="image" src="https://github.com/user-attachments/assets/49dbaa93-ebd2-4070-9a6c-fcb187738350" />
 
 •	Self remove: autodestrukcja
+
 <img width="398" height="139" alt="image" src="https://github.com/user-attachments/assets/a367aa56-3815-4763-a27d-90e4ba7aec70" />
 
 Posiadając wszystkie możliwe do wyciągnięcia informacje rozpoczęto analizę drugiego pliku s.php
@@ -357,13 +358,20 @@ Po wpisaniu hasła uzyskano dostęp do webshella w wersji premium.
 
 Dodatkowe funkcje:
 •	Infect – funkcja, do infekcji serwera (w celu jej pełnego zrozumienia należałoby całkowicie odekodować plik s.php)
+
 <img width="945" height="168" alt="image" src="https://github.com/user-attachments/assets/581bb77f-60c0-41a7-8e0a-148a91f40b51" />
+
 •	Safemode: służy do bypass’owania funkcji safemode
+
 <img width="945" height="208" alt="image" src="https://github.com/user-attachments/assets/3d5ca8da-c64c-4365-bb62-44585a3a0c56" />
+
 Dodatkowo w porównaniu z sekcjami z poprzedniego webshella posiada rozbudowane informacje
 •	Sec.info
+
 <img width="945" height="351" alt="image" src="https://github.com/user-attachments/assets/86078a5c-9b40-4c82-a8cc-14560e2aa325" />
+
 •	Sql (więcej opcji jest writable)
+
 <img width="945" height="163" alt="image" src="https://github.com/user-attachments/assets/1bd2c5f8-b20d-41de-a2a5-3aa75ed191ee" />
 
 
